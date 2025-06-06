@@ -1,8 +1,8 @@
-# 👨‍💻 Dudu Ferreira
+# 👨‍💻 ddx60hz
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Eduardo, sou do interior de São Paulo.
+Me chamo dudu, sou de São Paulo.
 
 ---
 
