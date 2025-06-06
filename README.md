@@ -36,9 +36,9 @@ Me chamo Eduardo, sou do interior de São Paulo.
     align="left" 
     alt="Pawn" 
     title="Pawn"
-    width="35px" 
+    width="30px" 
     style="padding-right: 10px;" 
-    src="https://open.mp/images/assets/f5.png" 
+    src="[https://open.mp/images/assets/f5.png](https://ern.gallerycdn.vsassets.io/extensions/ern/pawn-tools-ern/0.0.5/1735629834265/Microsoft.VisualStudio.Services.Icons.Default)" 
 />
 
 <br/>
