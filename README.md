@@ -1,9 +1,4 @@
 # 👨‍💻 ddx60hz
-
-**`Desenvolvedor Front-End`**
-
-Me chamo dudu, sou de São Paulo.
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
