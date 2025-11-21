@@ -1,4 +1,4 @@
-# 👨‍💻 ddx60hz
+# 👨‍💻 duduQuentao
 ---
 
 ### 🤖 Linguagens e Tecnologias
