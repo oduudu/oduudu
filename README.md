@@ -1,7 +1,9 @@
-# 👨‍💻 duduQuentao
----
+# 🧑‍💻 dudusao
 
-### 🤖 Linguagens e Tecnologias
+**`Desenvolvedor Front-End`**
+
+Estudando...
+
 
 <img 
     align="left" 
@@ -29,13 +31,18 @@
 />
 <img 
     align="left" 
-    alt="Pawn" 
-    title="Pawn"
+    alt="Tailwind" 
+    title="Tailwind"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://i.imgur.com/AVe1DIE.png" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
-
-<br/>
-<br/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
